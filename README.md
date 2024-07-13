@@ -39,3 +39,5 @@ Currently, two official plugins are available:
 - dashboard/admin/categories => AdminCategories
 - dashboard/admin/Users => AdminManageUsers
 
+## pagination searching and sorting
+
